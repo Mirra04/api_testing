@@ -28,6 +28,6 @@
 Документация:
 
 <ul>
-    <li>📬 <a href="https://www.postman.com/workspace/Exercies13~43672942-a87d-4057-817b-fb6103e260ff/folder/p5twx7o/soap-country-info?action=share&source=copy-link&creator=0&sideView=agentMode">Коллекция Postman (SOAP)</a></li>
+    <li>📬 <a href="https://www.postman.com/workspace/Exercies13~43672942-a87d-4057-817b-fb6103e260ff/folder/44154492-6afdfc3a-2612-4ab9-ba9d-a3dfb4f4c76e?action=share&source=copy-link&creator=0">Коллекция Postman (SOAP)</a></li>
     <li>📄 <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a></li>
 </ul>
